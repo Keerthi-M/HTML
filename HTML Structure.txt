@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>This is the basic HTML Structure</title>
+</head>
+<body>
+<p>Basic HTML Structure</p>
+</body>
+</html>
